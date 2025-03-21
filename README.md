@@ -60,10 +60,3 @@ O projeto permite alterar dinamicamente o status de um jogo, modificando classes
 - Aprimoramento do design com animações CSS
 - Uso de armazenamento local para persistência de status
 
-## 📄 Licença
-Este projeto está sob a licença MIT. Sinta-se à vontade para utilizar e modificar conforme necessário.
-
----
-
-Feito com 💡 por [Laise Costa](https://github.com/laisepcosta) 🚀
-
